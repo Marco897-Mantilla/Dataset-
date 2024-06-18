@@ -12,7 +12,7 @@ SOA ",PRx (dBm),Fotodiodo,"Potencia Óptica
 Máxima Permitida (dBm)","Responsividad del Receptor Óptico
  (A/W)",BW detector,"Amplificador RF (RX)
 (dB)",BER,EVM,Q-Factor,"Calidad de 
-Transmisión",
+Transmisión"
 1,8,1.55E-06,8036016 IM,4.1,LTE,4QAM,N/R,N/R,0.63,-21,29,25,5.36,17,10,0,0,3.70E-01,-15.66,Pin,-3,0.8,1.00E+10,29,1.48E-51,6.64,15.06024096,Excelente,
 2,8,1.55E-06,8036016 IM,4.1,LTE,4QAM,N/R,N/R,0.63,-21,29,25,5.36,17,11,0,0,3.70E-01,"-16,72",Pin,-3,0.8,1.00E+10,29,5.88E-50,6.75,14.81481481,Excelente,
 3,8,1.55E-06,8036016 IM,4.1,LTE,4QAM,N/R,N/R,0.63,-21,29,25,5.36,17,12,0,0,3.70E-01,-17.69,Pin,-3,0.8,1.00E+10,29,3.06E-47,6.95,14.38848921,Excelente,
